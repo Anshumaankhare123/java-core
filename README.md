@@ -37,7 +37,7 @@ Link :- https://www.oracle.com/in/java/technologies/downloads/
 ## Lessons to learned java :-
 
 - JavaTpoint:- https://www.javatpoint.com/java-tutorial
-- Tutorealpoint:- tutorialspoint.com/java/index.htm
+- Tutorealpoint:- https://www.tutorialspoint.com/java/index.htm
 - Geeks For Geeks :- https://www.geeksforgeeks.org/introduction-to-java/
 
 
